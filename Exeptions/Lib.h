@@ -2,6 +2,8 @@
 #include <iostream>
 #include <iomanip>
 #include <cmath>
+#include <string>
+#include <exception>
 
 using std::fixed;
 using std::setprecision;

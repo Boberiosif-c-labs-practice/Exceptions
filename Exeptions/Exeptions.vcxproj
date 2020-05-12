@@ -149,8 +149,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Exeptions.cpp" />
+    <ClCompile Include="GeometryCalc.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="GeometryCalc.h" />
     <ClInclude Include="Lib.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

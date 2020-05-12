@@ -18,9 +18,15 @@
     <ClCompile Include="Exeptions.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="GeometryCalc.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Lib.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="GeometryCalc.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,6 +1,8 @@
 ﻿#include <iostream>
+#include "Lib.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	example1();
+	std::cout << "\n> Finish " << std::endl;
 }

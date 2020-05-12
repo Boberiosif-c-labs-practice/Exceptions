@@ -1,0 +1,5 @@
+﻿  Exeptions.cpp
+  GeometryCalc.cpp
+  Создание кода...
+GeometryCalc.obj : error LNK2005: "void __cdecl example1(void)" (?example1@@YAXXZ) уже определен в Exeptions.obj
+D:\GitProj\Exceptions\x64\Debug\Exceptions.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
